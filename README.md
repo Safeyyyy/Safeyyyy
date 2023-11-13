@@ -1,4 +1,4 @@
-string[] Me = {"Im Safey", "i like coding and gaming", "Fabians is a noob"};
+string[] Me = {"Im Safey", "i like coding and gaming", "Fabian is a noob"};
 
 Programing.Projects(Games and litle projects for random stuff);
 
